@@ -1,1 +1,0 @@
-# covid-vision-detection-using-X--rays-
